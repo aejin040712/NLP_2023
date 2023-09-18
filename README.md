@@ -25,3 +25,7 @@
 |:--:|:--:|:--:| 
 |1 | code cells💜|[variable, assian](https://github.com/aejin040712/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 |2|Five tyep of data||
+
+| # | Sessions | Keywords |
+|:--:|:--:|:--:|
+| 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)| 
