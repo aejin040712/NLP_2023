@@ -23,7 +23,7 @@
 **yejin**
 | #|sessions |keywords |
 |:--:|:--:|:--:| 
-|1 | code cells💜|[variable, assian](https://github.com/aejin040712/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
+|1 | code cells💜|[variable, assian](https://github.com/aejin040712/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 |2|Five tyep of data||
 
 | # | Sessions | Keywords |
